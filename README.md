@@ -60,7 +60,7 @@
 - Implemented **state management, complex forms, API integrations**.  
 - Developed and deployed secure **NestJS + PostgreSQL backends**.  
 
----
+<!-- ---
 
 ## 📊 GitHub Stats  
 
@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SaboorFrizhub&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaboorFrizhub&layout=compact&theme=radical" height="150" />
 </p>
-
+-->
 ---
 
 ## 🌐 Connect with Me  
